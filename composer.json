@@ -1,0 +1,21 @@
+{
+    "name": "cooper30/yii2-fns-check",
+    "description": "Расширение для проверки чеков ФНС",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cooper30",
+            "email": "cooper30@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "cooper30\\fnsCheck\\": ""
+        }
+    }
+}
